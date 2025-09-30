@@ -1,6 +1,6 @@
 # Política de Privacidad - Gestor de Créditos
 
-**Última actualización:** 15 de enero de 2025
+**Última actualización:** 30 de septiembre de 2025
 
 ## 1. Información General
 
@@ -46,7 +46,18 @@
 ## 4. Suscripciones Premium
 
 ### 4.1 Información sobre Suscripciones
-Esta aplicación ofrece suscripciones premium a través de **RevenueCat** y **App Store**.
+Esta aplicación ofrece suscripciones premium a través de **RevenueCat** y **App Store**:
+
+**RevenueCat:**
+- **Propósito:** Procesar suscripciones premium
+- **Datos compartidos:** Identificador de usuario, estado de suscripción
+- **Política de privacidad:** https://www.revenuecat.com/privacy
+- **Ubicación:** Estados Unidos
+
+**Apple App Store:**
+- **Propósito:** Procesar pagos de suscripciones
+- **Datos compartidos:** Información de pago (manejada por Apple)
+- **Política de privacidad:** https://www.apple.com/privacy/
 
 **Información que recopilamos para suscripciones:**
 - Estado de suscripción (activa/inactiva)
@@ -172,6 +183,6 @@ Al utilizar la aplicación Gestor de Créditos, usted acepta esta Política de P
 
 ---
 
-**Documento legal válido desde el 15 de enero de 2025**
+**Documento legal válido desde el 30 de septiembre de 2025**
 
 **© 2025 Apper2025 - Gestor de Créditos**
